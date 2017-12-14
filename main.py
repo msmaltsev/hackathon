@@ -44,5 +44,5 @@ if __name__ == '__main__':
             print(word_vectors.doesnt_match(i[:3]), i[3])
             print('')
         except Exception as e:
-            print('things went bad due to: %s'%e)
+            print('things went bad due to this little rat: %s'%e)
 
